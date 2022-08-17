@@ -1,7 +1,0 @@
-http:
-  port: "8081"
-  
-sfdc:
-  username: "manjeet@jass.com"
-  password: "Software@197"
-  token: "a0rWs5fsfoYz6jsxY9SWRRxf"
